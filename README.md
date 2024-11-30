@@ -1,1 +1,1 @@
-# mechine-learing
+# mechine-learning
